@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'configify/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "configify"
+  spec.name          = "configify-rb"
   spec.version       = Configify::VERSION
   spec.authors       = ["soloman"]
   spec.email         = ["soloman1124@gmail.com"]

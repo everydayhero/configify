@@ -7,7 +7,7 @@ Configify captures a simple pattern for setting up configuration properties, as 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'configify'
+gem 'configify-rb'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install configify
+    $ gem install configify-rb
 
 ## Usage
 
