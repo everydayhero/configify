@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["soloman1124@gmail.com"]
   spec.summary       = %q{Simple utility to set config properties}
   spec.description   = %q{Simple utility to set config properties}
-  spec.homepage      = ""
+  spec.homepage      = 'https://github.com/everydayhero/configify'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
